@@ -5,7 +5,7 @@ The purpose of this project is to control an autonomous RC vehicle with an ESP32
 <h2 align="center">Technologies</h2>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="70" height="80">
-  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" width="100" height="auto"> 
+  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="auto">
 </p>
 
 
